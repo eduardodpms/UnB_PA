@@ -50,13 +50,13 @@ Abaixo, estão *screenshots* demonstrando um exemplo do funcionamento do sistema
 1. Clone o repositório na pasta de sua preferência:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/Greedy-D30
+git clone https://github.com/eduardodpms/UnB_PA
 ```
 
-2. Navegue até a pasta :
+2. Navegue até a pasta:
 
 ```bash
-cd Greedy-D30
+cd UnB_PA/projects/3_HuffmanCompressor
 ```
 
 3. Execute o arquivo *main.py*:

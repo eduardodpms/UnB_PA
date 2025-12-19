@@ -49,13 +49,13 @@ Abaixo, estão *screenshots* demonstrando um exemplo do funcionamento do sistema
 1. Clone o repositório na pasta de sua preferência:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/Grafos2-D30
+git clone https://github.com/eduardodpms/UnB_PA
 ```
 
-2. Navegue até a pasta :
+2. Navegue até a pasta:
 
 ```bash
-cd Grafos2-D30
+cd UnB_PA/projects/2_DijkstraNet
 ```
 
 3. Execute o arquivo *main.py*:

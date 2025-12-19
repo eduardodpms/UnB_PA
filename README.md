@@ -35,7 +35,7 @@ A disciplina de **Projeto de Algoritmos**, na *Universidade de Brasília (UnB/FC
 
 > **Programação Dinâmica**
 > - *Weighted Interval Scheduling*;
-> - *Weighted Knapasack*;
+> - *Weighted Knapsack*;
 > - *Alinhamento de Sequências*;
 > - *Bellman-Ford*.
 
@@ -43,7 +43,7 @@ A disciplina de **Projeto de Algoritmos**, na *Universidade de Brasília (UnB/FC
 
 ## Módulos e Links
 
-| N° | Conteúdo | Nome | Repo. Original | Apresentação |
+| N° | Conteúdo | Projeto | Repo. Original | Apresentação |
 | :-: | :-: | :-: | :-: | :-: |
 | `1` | *Grafos 1* | [**OrdenaFluxo**](projects/1_OrdenaFluxo/README.md) | [[LINK]](https://github.com/projeto-de-algoritmos-2025/Grafos1-OrdenaFluxo) | [[LINK]](https://youtu.be/FTQlUXVwtMc) |
 | `2` | *Grafos 2* | [**DijkstraNet**](projects/2_DijkstraNet/README.md) | [[LINK]](https://github.com/projeto-de-algoritmos-2025/Grafos2-DijkstraNet) | [[LINK]](https://youtu.be/PMUKGMi051E) |

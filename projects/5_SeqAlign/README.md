@@ -48,14 +48,16 @@ Abaixo, estão *screenshots* demonstrando um exemplo do funcionamento do sistema
 
 1. Clone o repositório na pasta de sua preferência:
 
+1. Clone o repositório na pasta de sua preferência:
+
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/PD-SeqAlign
+git clone https://github.com/eduardodpms/UnB_PA
 ```
 
-2. Navegue até a pasta :
+2. Navegue até a pasta:
 
 ```bash
-cd PD-SeqAlign
+cd UnB_PA/projects/5_SeqAlign
 ```
 
 3. Execute o arquivo *main.py*:

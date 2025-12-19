@@ -48,13 +48,13 @@ Abaixo, estão *screenshots* demonstrando um exemplo do funcionamento do sistema
 1. Clone o repositório na pasta de sua preferência:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/Grafos1-OrdenaFluxo
+git clone https://github.com/eduardodpms/UnB_PA
 ```
 
-2. Navegue até a pasta :
+2. Navegue até a pasta:
 
 ```bash
-cd Grafos1-OrdenaFluxo
+cd UnB_PA/projects/1_OrdenaFluxo
 ```
 
 3. Execute o arquivo *main.py*:

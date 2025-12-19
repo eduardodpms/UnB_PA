@@ -57,13 +57,13 @@ Após completar toda a sua execução, o algoritmo encontra a menor distância e
 1. Clone o repositório na pasta de sua preferência:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2025/DeC-D30
+git clone https://github.com/eduardodpms/UnB_PA
 ```
 
-2. Navegue até a pasta :
+2. Navegue até a pasta:
 
 ```bash
-cd DeC-D30
+cd UnB_PA/projects/4_PairView
 ```
 
 3. Execute o arquivo *main.py*:
